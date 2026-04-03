@@ -33,6 +33,9 @@ export default function Home() {
                 Capabilities
               </a>
               <a href="#" className="hover:opacity-60 transition-opacity">
+                Competencies
+              </a>
+              <a href="#" className="hover:opacity-60 transition-opacity">
                 Contact
               </a>
             </div>
@@ -52,7 +55,7 @@ export default function Home() {
           <div className="flex items-end justify-between">
             {/* Bottom Left Text */}
             <p className="max-w-[280px] text-[13px] leading-[1.6] text-[#6b6b6b]">
-              <span className="font-bold text-black">UX|UI Designer</span> and{" "}
+              <span className="font-bold text-black">UX/UI Designer</span> and{" "}
               <span className="font-bold text-black">Developer</span>, crafting
               intuitive interfaces and digital experiences that connect with
               people.
